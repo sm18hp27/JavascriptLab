@@ -1,5 +1,5 @@
 # JavascriptLab
-roblem Statement
+problem Statement
 
 Create a Quiz application which will have some questions along with four options for each question.
 
